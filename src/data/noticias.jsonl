@@ -1,0 +1,4 @@
+{"fecha_extraccion": "2025-10-02T17:29:23.539159", "url_origen": "https://www.bbc.com/mundo", "total_noticias_detectadas": 0, "clase_selector_usado": "lx-c-card"}
+{"fecha_extraccion": "2025-10-02T17:32:12.127200", "url_origen": "https://www.bbc.com/mundo", "total_noticias_detectadas": 61, "selector_css_usado": "ul[data-testid=\"topic-promos\"] > li"}
+{"fecha_extraccion": "2025-10-02T17:33:26.729062", "url_origen": "https://www.bbc.com/mundo", "total_noticias_detectadas": 61, "selector_css_usado": "ul[data-testid=\"topic-promos\"] > li"}
+{"fecha_extraccion": "2025-10-02T17:33:52.855686", "url_origen": "https://www.bbc.com/mundo", "total_noticias_detectadas": 61, "selector_css_usado": "ul[data-testid=\"topic-promos\"] > li"}
